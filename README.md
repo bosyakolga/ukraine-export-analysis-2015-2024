@@ -1,5 +1,6 @@
 # Аналіз товарного експорту України 2016-2024 
 Офіційні дані Держстату про експорт товарів щороку з 2016 по 2024 рік.  https://stat.gov.ua/uk/explorer
+
 Дашборд https://public.tableau.com/app/profile/olga.bosyak/viz/2016-2024_17875246473560/Dashboard1#2
 ## Мета аналізу
 
